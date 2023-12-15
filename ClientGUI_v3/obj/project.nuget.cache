@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "aXxfUPq2IRCTgp90v1JyrHOFA6xrxmh7bq9q4iI1NM445+jqq42YFsL2bODGcDZ2RosqFHUBsGM7xgb12xLN0Q==",
+  "success": true,
+  "projectFilePath": "G:\\00_Cloud\\NextCloud\\SLAC\\04_Projects\\CXAS\\Client\\ClientGUI_v18\\ClientGUI_v3\\ClientGUI_v3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oliver\\.nuget\\packages\\zedgraph\\5.1.7\\zedgraph.5.1.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ZedGraph 5.1.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ZedGraph",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
